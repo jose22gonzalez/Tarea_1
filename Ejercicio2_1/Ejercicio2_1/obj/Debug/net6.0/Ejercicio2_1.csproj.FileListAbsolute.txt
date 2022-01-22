@@ -1,0 +1,15 @@
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\bin\Debug\net6.0\Ejercicio2_1.exe
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\bin\Debug\net6.0\Ejercicio2_1.deps.json
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\bin\Debug\net6.0\Ejercicio2_1.runtimeconfig.json
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\bin\Debug\net6.0\Ejercicio2_1.dll
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\bin\Debug\net6.0\ref\Ejercicio2_1.dll
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\bin\Debug\net6.0\Ejercicio2_1.pdb
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\obj\Debug\net6.0\Ejercicio2_1.csproj.AssemblyReference.cache
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\obj\Debug\net6.0\Ejercicio2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\obj\Debug\net6.0\Ejercicio2_1.AssemblyInfoInputs.cache
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\obj\Debug\net6.0\Ejercicio2_1.AssemblyInfo.cs
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\obj\Debug\net6.0\Ejercicio2_1.csproj.CoreCompileInputs.cache
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\obj\Debug\net6.0\Ejercicio2_1.dll
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\obj\Debug\net6.0\ref\Ejercicio2_1.dll
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\obj\Debug\net6.0\Ejercicio2_1.pdb
+C:\Users\jose8\OneDrive\Escritorio\Clase2022\ProgramacionAplicada\Tarea1\EjercicioPracticos\Ejercicio2_1\Ejercicio2_1\obj\Debug\net6.0\Ejercicio2_1.genruntimeconfig.cache
